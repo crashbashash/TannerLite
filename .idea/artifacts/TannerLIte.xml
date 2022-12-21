@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TannerLIte">
+    <output-path>$USER_HOME$/EpicBot/Scripts</output-path>
+    <root id="archive" name="TannerLIte.jar">
+      <element id="module-output" name="TannerLite" />
+    </root>
+  </artifact>
+</component>
